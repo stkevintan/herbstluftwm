@@ -1,7 +1,7 @@
 herbsluftwm-config
 ==================
 
-My hersbluftwm config file includes autostart.sh &amp; panel.sh
+My herbsluftwm config file includes autostart.sh &amp; panel.sh
 
 autostart:<br>
 默认启动compton和fcitx（倒数两行），compton不需要额外的配置文件。<br>
