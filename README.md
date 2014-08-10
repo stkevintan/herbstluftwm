@@ -1,4 +1,4 @@
-herbsluftwm-config
+herbsluftwm
 ==================
 
 My herbsluftwm config file includes autostart.sh &amp; panel.sh
